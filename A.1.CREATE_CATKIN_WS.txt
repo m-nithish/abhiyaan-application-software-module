@@ -1,0 +1,16 @@
+//TO CREATE A CATKIN WORKSPACE, USING VISUAL STUDIO CMD 
+
+C:\Windows\system32>cd \
+
+C:\>mkdir my_catkin_ws\src
+
+
+C:\>cd my_catkin_ws
+
+C:\my_catkin_ws>catkin_make
+
+C:\my_catkin_ws\src>cd
+
+C:\my_catkin_ws>devel\setup.bat
+
+//THE LAST STATEMENT SAVES OUT SETTINGS
